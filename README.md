@@ -1,8 +1,24 @@
-# mydemo
+# myVue
+
+#### 项目介绍
+我的第一个Vue项目案例
+
+#### 软件架构
+基于Vue Cli 2创建
+
+#### 安装教程
+
+npm install
+
+#### 使用说明
+
+1. xxxx
+2. xxxx
+3. xxxx
 
 > A Vue.js project
 
-## Build Setup
+#### 启动步骤
 
 ``` bash
 # install dependencies
@@ -17,5 +33,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
